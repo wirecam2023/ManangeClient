@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\MyManage.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\MyManage.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\登陆背景图片.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\bmp00001.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\登陆背景图片1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\CButtonST42\res\Hand.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\登陆背景图片左.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\登陆背景图片HEAD.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\bmp00002.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\登陆背景图片HEAD1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\bit_min1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\bit_off1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\内部背景图片.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\复选框（选中）.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\复选单选框.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\复选框（选中）1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\提示界面背景.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\图片\登陆背景图片2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyManage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyManageDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CBtnST_Source\BCMenu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CBtnST_Source\BtnST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightLoginView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftPaneView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadTextView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightWelView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TopView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAddUserAccView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightChgUserAccView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightQueBasView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightQueUpLoadView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightQueRepView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightQueExecpView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightQueDrugView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightQueMessView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAddDocAccView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightChgDocAccView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightDocBasView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightDocDiagView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightDocMess.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAddManAccView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAuthCS1View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAuthCS2View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAuthTech1View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAuthTech2View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAuthDoc1View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAuthDoc2View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightChgManAccView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightMessSendView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAddSeriView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightSeriManView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightSeriBatView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightChgSeriView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SockManageCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="XPGroupBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CApplication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorkbook.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorksheet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorkbooks.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorksheets.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightMessSendView1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightEmployee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightAuthorizeView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyManage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyManageDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\CBtnST_Source\BCMenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\CBtnST_Source\BtnST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightLoginView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftPaneView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HeadTextView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightWelView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TopView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAddUserAccView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightChgUserAccView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightQueBasView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightQueUpLoadView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightQueRepView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightQueExecpView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightQueDrugView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightQueMessView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAddDocAccView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightChgDocAccView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightDocBasView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightDocDiagView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightDocMess.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAddManAccView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAuthCS1View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAuthCS2View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAuthTech1View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAuthTech2View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAuthDoc1View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAuthDoc2View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightChgManAccView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightMessSendView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAddSeriView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightSeriManView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightSeriBatView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightChgSeriView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SockManageCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="XPGroupBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightMessSendView1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightEmployee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightAuthorizeView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MyManage.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
